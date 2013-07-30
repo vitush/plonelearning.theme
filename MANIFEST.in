@@ -1,0 +1,2 @@
+recursive-include plonelearning *
+global-exclude *pyc
